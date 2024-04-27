@@ -2,9 +2,9 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/temperature-controller/index.html",
       "/posts/pylabrobot-or-opentrons/index.html",
-      "/posts/serial-dilution/index.html",
-      "/posts/welcome/index.html"
+      "/posts/serial-dilution/index.html"
     ]
   }
 ]
